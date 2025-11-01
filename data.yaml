@@ -1,0 +1,12 @@
+names:
+- yawn
+- drowsy
+- eyes closed
+- heavy eyes
+- eyes open
+- not drowsy
+nc: 6
+
+test: ../test/images
+train: ../train/images
+val: ../valid/images
